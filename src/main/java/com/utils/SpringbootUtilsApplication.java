@@ -20,10 +20,8 @@ public class SpringbootUtilsApplication {
     public void test() throws Exception {
         throw  new MyException("fa");
         //test
-<<<<<<< HEAD
         //test2
-=======
->>>>>>> 0d1fa24a32c231f80839daac378b9d035eed5b5b
+
     }
 
 
