@@ -19,6 +19,9 @@ public class SpringbootUtilsApplication {
     @GetMapping("t1")
     public void test() throws Exception {
         throw  new MyException("fa");
+        //test
+        //test2
+
     }
 
 
